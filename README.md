@@ -11,6 +11,7 @@
 ![JS](/svg/JS.svg)
 ![React](/svg/react.svg)
 ![Redux](/svg/redux.svg)
+![Vue](/svg/vue.svg)
 ![TS](/svg/TS.svg)
 ![Git](/svg/git.svg)
 
