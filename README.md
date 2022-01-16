@@ -9,10 +9,10 @@
 ![HTML](/svg/html-5.svg)
 ![CSS](/svg/css3.svg)
 ![JS](/svg/JS.svg)
+![TS](/svg/TS.svg)
 ![React](/svg/react.svg)
 ![Redux](/svg/redux.svg)
 ![Vue](/svg/vue.svg)
-![TS](/svg/TS.svg)
 ![Git](/svg/git.svg)
 
 ## MY CONTACTS
