@@ -1,7 +1,7 @@
 ## Hi there! 👋 My name is Andrii.
-* 😊 I'm responsible, motivated, easy-to-learn React Frontend Developer open to work now.
+* 😊 I'm responsible, motivated, easy-to-learn React Frontend Developer.
 * 😍 I like programming because it's interesting for me to create something, to make user interface live and friendly.
-* 🐞 I have about six months of commercial development experience in Frontend.
+* 🐞 I have about eight months of commercial development experience in Frontend.
 * 👯 I will be glad to share my experience and learn from other developers.
 
 ## MY TECHNOLOGY STACK AND TOOLS
