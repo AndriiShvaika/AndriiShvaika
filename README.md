@@ -1,8 +1,5 @@
-## Hi there! 👋 My name is Andrii.
-* 😊 I'm responsible, motivated, easy-to-learn Frontend Developer.
-* 😍 I like programming because it's interesting for me to create something, to make user interface live and friendly.
-* 🐞 I have four years of experience in commercial development in Frontend.
-* 👯 I will be glad to share my experience and learn from other developers.
+## Hi, I'm Andrii 👋
+Frontend Engineer with 4.5 years of commercial experience. I build maintainable, scalable web UIs with a strong focus on performance, state management, and testable code. I’m comfortable collaborating in product teams via code reviews, mentoring, and architectural discussions.
 
 ## MY TECHNOLOGY STACK AND TOOLS
 ![HTML](/svg/html-5.svg)
